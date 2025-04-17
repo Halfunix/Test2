@@ -10,6 +10,8 @@ public class test1 {
 	public static void main(String[] args) throws IOException {
 		int[] list = { 1, 1, 2, 3, 5 };
 		System.out.println("123");
+		
+		System.out.println("git2");
 	}
 
 }
